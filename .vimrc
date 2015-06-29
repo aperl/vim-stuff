@@ -1,4 +1,3 @@
-
 set nocompatible
 filetype off
 
@@ -52,6 +51,6 @@ set splitbelow splitright
 
 " Show file info
 set laststatus=2
-hi StatusLine   ctermfg=16  guifg=#000000 ctermbg=4 guibg=#4e4e4e cterm=bold gui=bold term=bold
-hi StatusLineNC ctermfg=16 guifg=#b2b2b2 ctermbg=14 guibg=#3a3a3a cterm=none gui=none term=none
+hi StatusLine   ctermfg=15 guifg=#b2b2b2 ctermbg=4 guibg=#3a3a3a cterm=bold gui=bold term=bold
+hi StatusLineNC ctermfg=0 guifg=#b2b2b2 ctermbg=8 guibg=#3a3a3a cterm=none gui=none term=none
 
